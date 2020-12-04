@@ -1,0 +1,12 @@
+.equiposeleccionado {
+  display: flex;
+  justify-content: space-between;
+}
+.equiposeleccionado__titulares {
+  border: 1px solid white;
+  padding: 0px 200px;
+}
+.equiposeleccionado__suplentes {
+  border: 1px solid white;
+  padding: 0px 200px;
+}
